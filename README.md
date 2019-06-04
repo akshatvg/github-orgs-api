@@ -111,6 +111,7 @@ d[contributors['login']] += project[1] * 10 + project[2] * 5 +project[3] * 15 + 
 
 ### Built by
 * [GDGVIT](https://www.gdgvitvellore.com)
+* [CodeChef-VIT](https://codechefvit.com)
 
 ### Contributors
 
