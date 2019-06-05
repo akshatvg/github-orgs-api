@@ -47,8 +47,8 @@ REDIS_URL=<your redis url>
 Clone the repository and add the above credentials.
 
 ```bash
-git clone https://github.com/GDGVIT/gdginfo-backend.git
-cd gdginfo-backend
+git clone https://github.com/CodeChefVIT/github-orgs-api.git
+cd github-orgs-api
 echo "TOKEN=<your-github-access-token>" > .env
 echo "ORGANIZATION=<your-github-ORG>" >> .env
 echo "REDIS_URL=<your redis URL>" >> .env # optional
