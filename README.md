@@ -106,6 +106,12 @@ d[contributors['login']] += project[1] * 10 + project[2] * 5 +project[3] * 15 + 
 
 <br/>
 
+### Mitigation
+
+* Pluggable caching layer
+* Cron cache seed 
+* Manual cache seed ( because heroku dynos go to sleep after 30 minutes of inactivity )
+
 ### Built With
 
 * [GithubApi](https://developer.github.com/v3/) 
