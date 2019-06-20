@@ -50,9 +50,7 @@ Clone the repository and add the above credentials.
 git clone https://github.com/CodeChefVIT/github-orgs-api.git
 cd github-orgs-api
 pip install -r requirements.txt
-echo "TOKEN=<your-github-access-token>" > .env
-echo "ORGANIZATION=<your-github-ORG>" >> .env
-echo "REDIS_URL=<your redis URL>" >> .env # optional
+## Create .env (see sample above) 
 ```
 
 <br/>
@@ -126,3 +124,5 @@ d[contributors['login']] += project[1] * 10 + project[2] * 5 +project[3] * 15 + 
 * Apurva Nitanjay
 * Angad Sharma
 
+#### References
+See [FAQs](https://github.com/CodeChefVIT/github-orgs-api/wiki/FAQs-and-references)
