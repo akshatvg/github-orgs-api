@@ -5,3 +5,4 @@ schedule==0.4.2
 requests==2.21.0
 
 urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
