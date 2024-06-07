@@ -1,4 +1,4 @@
-tornado==5.1.0
+tornado==6.4.1
 python-dotenv==0.10.1
 redis==3.2.1
 schedule==0.4.2
